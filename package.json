@@ -1,0 +1,26 @@
+{
+  "name": "@shebtastic/card",
+  "version": "1.0.0",
+  "description": "A personal card for Michael Habeth (@sheb, @shebtastic)",
+  "main": "bin/card.js",
+  "bin": {
+    "sheb": "./bin/card.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shebtastic/card.git"
+  },
+  "author": "Michael \"Sheb\" Habeth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shebtastic/card/issues"
+  },
+  "homepage": "https://sheb.rocks",
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "^4.0.0"
+  }
+}
