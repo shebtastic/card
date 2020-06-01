@@ -1,6 +1,6 @@
 {
   "name": "@shebtastic/card",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A personal card for Michael Habeth (@sheb, @shebtastic)",
   "main": "bin/card.js",
   "bin": {
